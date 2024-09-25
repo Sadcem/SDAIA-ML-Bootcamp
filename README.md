@@ -1,7 +1,3 @@
-Here's a README file draft for your repository based on the description you provided:
-
----
-
 # SDAIA Machine Learning Bootcamp Projects
 
 ## Overview
